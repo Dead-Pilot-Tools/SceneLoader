@@ -1,0 +1,13 @@
+{
+  "name": "com.deadpilottools.tooltemplate",
+  "version": "1.0.0",
+  "displayName": "Tool Template",
+  "description": "Template For Unity.SDK development",
+  "unity": "2019.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "tools"
+  ]
+}

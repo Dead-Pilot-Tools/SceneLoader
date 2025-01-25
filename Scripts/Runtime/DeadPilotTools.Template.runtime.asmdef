@@ -1,0 +1,14 @@
+{
+    "name": "DeadPilotTools.Template.runtime",
+    "rootNamespace": "DeadPilotTools.Template.runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
