@@ -1,6 +1,6 @@
 {
-    "name": "DeadPilotTools.Template.runtime",
-    "rootNamespace": "DeadPilotTools.Template.runtime",
+    "name": "DeadPilotTools.SceneLoader.runtime",
+    "rootNamespace": "DeadPilotTools.SceneLoader.runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
