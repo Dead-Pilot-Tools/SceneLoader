@@ -1,7 +1,7 @@
 {
-  "name": "com.deadpilottools.SceneLoader",
+  "name": "com.deadpilottools.sceneloader",
   "version": "1.0.0",
-  "displayName": "Tool Template",
+  "displayName": "Scene Loader",
   "description": "Async SceneLoader",
   "unity": "2019.3",
   "documentationUrl": "",
